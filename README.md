@@ -4,8 +4,7 @@ programador web junior con enfoque en el desarrollo de soluciones creativas y ef
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-toloza/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/facundo-toloza) 
 
 
 # 💻 Tech Stack:
