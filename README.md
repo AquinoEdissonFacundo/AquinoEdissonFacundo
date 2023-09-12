@@ -1,5 +1,11 @@
 # 💫 About Me:
-programador web junior con enfoque en el desarrollo de soluciones creativas y efectivas. Aunque no cuento con experiencia laboral formal, he trabajado en proyectos que demuestran mi capacidad para crear sitios web interactivos. Tengo habilidad para adaptarme a distintos entornos y mi entusiasmo por aprender me permiten abordar desafíos con determinación. Destaco por mi facilidad para trabajar en equipo y mi compromiso en el logro de la satisfacción del cliente. Actualmente, busco una oportunidad laboral en el mundo IT para seguir desarrollando mis habilidades y adquirir más experiencia.
+Trainee Full Stack Developer con enfoque en el desarrollo de soluciones creativas y efectivas. 
+
+Si bien no cuento con experiencia laboral, trabaje en proyectos que demuestran mi capacidad para crear sitios web interactivos. 
+
+Me adapto fácilmente a distintos entornos y mi entusiasmo por aprender me permiten abordar desafíos con determinación. Me destaco por mi facilidad para trabajar en equipo y mi compromiso en para lograr la satisfacción del cliente. 
+
+Actualmente, estoy buscando mi primera oportunidad laboral en el mundo IT para seguir desarrollando mis habilidades y adquirir más experiencia.
 
 
 
