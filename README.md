@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trainee Full Stack Developer con enfoque en el desarrollo de soluciones creativas y efectivas. 
+Full Stack Developer con enfoque en el desarrollo de soluciones creativas y efectivas. 
 
 Si bien no cuento con experiencia laboral, trabaje en proyectos que demuestran mi capacidad para crear sitios web interactivos. 
 
