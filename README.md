@@ -1,12 +1,5 @@
 # 💫 About Me:
-Full Stack Developer con enfoque en el desarrollo de soluciones creativas y efectivas. 
-
-Si bien no cuento con experiencia laboral, trabaje en proyectos que demuestran mi capacidad para crear sitios web interactivos. 
-
-Me adapto fácilmente a distintos entornos y mi entusiasmo por aprender me permiten abordar desafíos con determinación. Me destaco por mi facilidad para trabajar en equipo y mi compromiso.
-
-Actualmente, estoy buscando mi primera oportunidad laboral en el mundo IT para seguir desarrollando mis habilidades y adquirir más experiencia.
-
+Me especializo en la creación de aplicaciones web eficientes y escalables. Me enfoco en resolver problemas reales mediante código limpio y experiencias de usuario optimizadas. He trabajado en proyectos para un centro terapéutico en Nordelta y una mueblería en Tigre, siempre adaptándome a los objetivos del negocio y mejorando continuamente mis habilidades.
 
 
 ## 🌐 Socials:
