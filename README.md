@@ -19,14 +19,9 @@
 
 ## 🪞 Sobre mí
 
-Me especializo en construir **productos SaaS multi-tenant** eficientes, seguros y escalables, con foco en aislamiento de datos por tenant, arquitectura limpia y experiencias de usuario tan cuidadas como el producto en sí. Referencias de diseño: **Notion · Linear · Stripe**.
+Desarrollador full-stack. Me gusta resolver problemas reales con código simple y cuidar el detalle en cada pantalla que construyo. Referencias de diseño: **Notion · Linear · Stripe**.
 
-Vengo de resolver problemas reales para negocios concretos —un centro terapéutico en Nordelta, una mueblería en Tigre— siempre priorizando el objetivo del negocio por sobre la tecnología de moda, sin dejar de mantenerme al día con el stack moderno de TypeScript.
-
-- 🔭 Actualmente construyendo una plataforma SaaS multi-tenant con **Next.js + PostgreSQL**
-- 🌱 Profundizando en arquitectura de datos, seguridad multi-tenant y performance
-- 💬 Preguntame sobre **Next.js, Drizzle ORM, Postgres** o diseño de producto
-- 📫 **aquinoedissonfacundo@gmail.com**
+Trabajé en proyectos para un centro terapéutico en Nordelta y una mueblería en Tigre, siempre priorizando el objetivo del negocio por sobre la tecnología de moda.
 
 <br/>
 
