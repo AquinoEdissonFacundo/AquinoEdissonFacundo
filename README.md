@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=220&section=header&text=Edisson%20Facundo%20Toloza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Multi-tenant%20Escalable&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=220&section=header&text=Edisson%20Facundo%20Toloza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://www.edissontoloza.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Construyo+SaaS+multi-tenant+escalables;Next.js+%2B+TypeScript+%2B+PostgreSQL;C%C3%B3digo+limpio+%2B+UX+cuidado;Siempre+resolviendo+problemas+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Me+enfoco+en+crear+plataformas+web+escalables;de+alto+rendimiento+y+gran+experiencia+de+usuario;Transformo+necesidades+de+negocio+en+soluciones+eficientes" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ## 🪞 Sobre mí
 
-Desarrollador Full Stack especializado en React.js, TypeScript, Node.js y WordPress Headless. Me enfoco en crear plataformas web escalables, de alto rendimiento y orientadas a una excelente experiencia de usuario, transformando necesidades de negocio en soluciones técnicas eficientes.
+Me enfoco en crear plataformas web escalables, de alto rendimiento y orientadas a una excelente experiencia de usuario, transformando necesidades de negocio en soluciones técnicas eficientes.
 
 <br/>
 
