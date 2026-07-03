@@ -19,9 +19,7 @@
 
 ## 🪞 Sobre mí
 
-Desarrollador full-stack. Me gusta resolver problemas reales con código simple y cuidar el detalle en cada pantalla que construyo. Referencias de diseño: **Notion · Linear · Stripe**.
-
-Trabajé en proyectos para un centro terapéutico en Nordelta y una mueblería en Tigre, siempre priorizando el objetivo del negocio por sobre la tecnología de moda.
+Desarrollador Full Stack especializado en React.js, TypeScript, Node.js y WordPress Headless. Me enfoco en crear plataformas web escalables, de alto rendimiento y orientadas a una excelente experiencia de usuario, transformando necesidades de negocio en soluciones técnicas eficientes.
 
 <br/>
 
@@ -29,7 +27,7 @@ Trabajé en proyectos para un centro terapéutico en Nordelta y una mueblería e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,express,tailwind,html,css,postgres,git,vercel,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,express,wordpress,tailwind,html,css,postgres,git,vercel,figma&theme=dark" />
 
 </div>
 
