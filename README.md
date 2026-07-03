@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.edissontoloza.com/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" /></a>
-<a href="https://linkedin.com/in/facundo-toloza"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://www.linkedin.com/in/facundo-toloza-desarrollador-web/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="mailto:aquinoedissonfacundo@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=F472B6" /></a>
 <img src="https://komarev.com/ghpvc/?username=AquinoEdissonFacundo&style=for-the-badge&color=6d28d9&label=Visitas" />
 
