@@ -49,46 +49,6 @@ Me enfoco en crear plataformas web escalables, de alto rendimiento y orientadas 
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AquinoEdissonFacundo&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=c9d1d9&ring_color=6d28d9" />
-<img height="165" src="https://streak-stats.demolab.com?user=AquinoEdissonFacundo&hide_border=true&background=0d1117&ring=6d28d9&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquinoEdissonFacundo&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="45%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AquinoEdissonFacundo&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
-## 🐍 Actividad de contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AquinoEdissonFacundo/AquinoEdissonFacundo/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/AquinoEdissonFacundo/AquinoEdissonFacundo/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<sub>↳ se genera solo con un GitHub Action (ver `snake.yml` — instrucciones al pie de este mensaje). Hasta que corra la primera vez, esta imagen no se ve.</sub>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0f172a&height=120&section=footer" width="100%"/>
