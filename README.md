@@ -1,56 +1,49 @@
-<div align="center">
+# Edisson Toloza
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d28d9&height=220&section=header&text=Edisson%20Facundo%20Toloza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
+**Full Stack Engineer — React · Next.js · TypeScript · Node.js**
 
-<a href="https://www.edissontoloza.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&lines=Me+enfoco+en+crear+plataformas+web+escalables;de+alto+rendimiento+y+gran+experiencia+de+usuario;Transformo+necesidades+de+negocio+en+soluciones+eficientes" alt="Typing SVG" />
-</a>
+I design, build and maintain production software for real businesses — from multi-tenant SaaS and real-time systems to e-commerce and AI automation. I own the full lifecycle: architecture, development, deployment and maintenance.
 
-<br/>
+📍 Tigre, Buenos Aires, Argentina · 🌐 [edissontoloza.com](https://www.edissontoloza.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/facundo-toloza-desarrollador-web/) · ✉️ aquinoedissonfacundo@gmail.com
 
-<a href="https://www.edissontoloza.com/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" /></a>
-<a href="https://www.linkedin.com/in/facundo-toloza-desarrollador-web/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="mailto:aquinoedissonfacundo@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=F472B6" /></a>
-<img src="https://komarev.com/ghpvc/?username=AquinoEdissonFacundo&style=for-the-badge&color=6d28d9&label=Visitas" />
+---
 
-</div>
+## Featured projects
 
-<br/>
+### 🗓️ Studio Suite — Multi-tenant SaaS
+Appointment booking, deposit payments and subscription billing for beauty studios. Multi-tenant with full Row Level Security, two independent Mercado Pago flows, background jobs and per-vertical SEO. Designed, built and deployed solo.
 
-## 🪞 Sobre mí
+**Next.js 16 · TypeScript · PostgreSQL (Neon) · Drizzle · Better Auth · Inngest · Redis · Sentry**
 
-Me enfoco en crear plataformas web escalables, de alto rendimiento y orientadas a una excelente experiencia de usuario, transformando necesidades de negocio en soluciones técnicas eficientes.
+▶️ [Live](https://studiosuite.xyz) · 📄 [Case study](https://github.com/AquinoEdissonFacundo/studio-suite-case-study)
 
-<br/>
+---
 
-## 🧠 Stack principal
+### 🪑 Stron Muebles — Headless commerce + AI WhatsApp agent
+A self-managed headless storefront engineered for local technical SEO (Top 3 Google rankings, +35% clicks), plus a 24/7 AI WhatsApp sales agent built as a multi-agent LLM workflow with conversational memory and automated lead alerts.
 
-<div align="center">
+**React · TypeScript · WordPress REST API · n8n · LLM agents · Redis**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,express,wordpress,tailwind,html,css,postgres,git,vercel,figma&theme=dark" />
+▶️ [Live store](https://stronmuebles.com) · 📄 [Case study](https://github.com/AquinoEdissonFacundo/stron-muebles-case-study)
 
-</div>
+---
 
-<br/>
+### 📱 Mola — Real-time QR ordering platform
+Table-side ordering by QR with a two-layer session model: a persistent table token for identity plus a staff-opened session that authorizes ordering, so orders stay tied to a physically present table. Live bar dashboard via realtime subscriptions.
 
-## 🧰 Herramientas & infraestructura
+**React · Supabase · Supabase Realtime**
 
-<div align="center">
+▶️ [Demo](https://molaa-cafeteria.vercel.app) · 📄 [Case study](https://github.com/AquinoEdissonFacundo/mola-qr-ordering-case-study)
 
-<img src="https://img.shields.io/badge/Drizzle_ORM-161b22?style=for-the-badge&logo=drizzle&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Zod-161b22?style=for-the-badge&logo=zod&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Better_Auth-161b22?style=for-the-badge&logo=auth0&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/Upstash_Redis-161b22?style=for-the-badge&logo=redis&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Inngest-161b22?style=for-the-badge&logo=inngest&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Sentry-161b22?style=for-the-badge&logo=sentry&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/Mercado_Pago-161b22?style=for-the-badge&logo=mercadopago&logoColor=A78BFA" />
+---
 
-</div>
+## Tech
 
-<br/>
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui
+**Backend:** Node.js · PostgreSQL · Drizzle ORM · Zod · Better Auth · Redis
+**Infra & quality:** Vercel · Inngest · Sentry · Vitest · Playwright · CI/CD
+**Automation:** n8n · AI / LLM workflows · Mercado Pago
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:0f172a&height=120&section=footer" width="100%"/>
-
-</div>
+*Open to Full Stack Engineer roles. Best way to reach me: [email](mailto:aquinoedissonfacundo@gmail.com) or [LinkedIn](https://www.linkedin.com/in/facundo-toloza-desarrollador-web/).*
